@@ -31,7 +31,7 @@
 * **每一个自定义函数的作用**
     <p>对于你封装的每一个函数，你应该在函数开始前写明他的作用，例如 :</p>
     <table><tr><td bgcolor = Beige><h> c / c++</h></td></tr></table>
-    ```
+    ``` c[]
     /* 返回两个数中的最大值 */
     int max(int a, int b){  
         return a > b? a : b;  
