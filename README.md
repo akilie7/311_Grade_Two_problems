@@ -31,13 +31,14 @@
     <p>对于你的commit，你应该在code的顶部(即你的代码主体之前)说明<br>它的功能。</p>
 * **每一个自定义函数的作用**
     <p>对于你封装的每一个函数，你应该在函数开始前写明他的作用，例如 :</p>
-    <table><tr><td bgcolor = Beige><h> c / c++</h></td></tr></table>
-    `
+    <table><tr><td bgcolor = Beige><h> c / c++</h></td></tr></table
+                                                             
+    ``` c++
     /* 返回两个数中的最大值 */
     int max(int a, int b){  
         return a > b? a : b;  
     }
-    `
+    ```
 * **清晰地命名每一个变量**
     <p>不要使用诸如a, b这种名称来命名你的变量，请尽量为你的变量提供一个易于理解的名称。</p>
 
