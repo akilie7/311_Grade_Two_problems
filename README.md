@@ -31,9 +31,9 @@
     <p>对于你的commit，你应该在code的顶部(即你的代码主体之前)说明<br>它的功能。</p>
 * **每一个自定义函数的作用**
     <p>对于你封装的每一个函数，你应该在函数开始前写明他的作用，例如 :</p>
-    <table><tr><td bgcolor = Beige><h> c / c++</h></td></tr></table
+    <table><tr><td bgcolor = Beige><h> c / c++</h></td></tr></table>
                                                              
-    ``` c++
+    ``` c
     /* 返回两个数中的最大值 */
     int max(int a, int b){  
         return a > b? a : b;  
@@ -57,4 +57,4 @@ README贡献者 : 魔法少女西琳✰
 
 *to be continue*
 <br>
-<a href = "https://www.yuanshen.com/#/">如果你累了，那么就歇来这里吧</a>
+<a href = "https://www.yuanshen.com/#/">2023.10.11</a>
